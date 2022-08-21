@@ -6,30 +6,18 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
-  middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  firstName: "Darryl",
+  middleName: "'DJ'",
+  lastName: "Johnson",
+  message: " In order to change the world, we must change ourselves. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
-    },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://github.com/headbanddandy",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/darryl-johnson-ii-14459165/",
     },
   ],
 };
@@ -54,8 +42,8 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Darryl Johnson, I go by DJ or Deej; I love sports, technology, food, and head-bands. I am a current educator and motivator residing in the state of Florida. When not working you can find me working out, reading a book, trying foods from different cultures, or watching TV. My goal is to transtion from education into a software developer role in which I can develop my skills and grow with a great company. ",
+  resume: "https://docs.google.com/document/d/1xbdRvXth5bLzSHZnB4UKN6XBivBgYoIO7P0tjyhe0wQ/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -66,7 +54,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "HeadbandDandy", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -100,21 +88,23 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
+    { name: "Python", value: 50 },
+    { name: "SQL", value: 45 },
+    { name: "Data Structures", value: 60 },
+    { name: "Bootstrap", value: 65 },
+    { name: "JavaScript", value: 75 },
     { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "HTML/CSS", value: 80 },
+    { name: "Express.js", value: 70 },
+    { name: "Node.js", value: 65 },
+    { name: "API's", value: 65 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    { name: "Goal-Oriented", value: 95 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Positivity", value: 95 },
+    { name: "Adaptability", value: 100 },
+    { name: "Problem Solving", value: 85 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
     { name: "Creativity", value: 90 },
@@ -124,10 +114,10 @@ const skills = {
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
-  heading: "Get In Touch",
+  heading: "Reach Out",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm looking for a Full-Time role with a great company that will allow me to break into the technology sector. Whether thats a role as an intern, junior positions, or working with a team on the back-end of development. Or if you have any questions about any projects or setting up an interview, please feel free to email me at",
+  email: "darryl.johnson@palmbeachschools.org OR dandycodes@gmail.com",
 };
 
 const experiences = {
@@ -135,14 +125,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Lead Teacher & Department Chair',// Here Add Company Name
       companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      date: 'Jan 2020 – Present',
     },
     {
-      role: 'Front-End Developer',
+      role: 'Teacher',
       companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      date: 'Aug 2018 – January 2020',
     },
   ]
 }
