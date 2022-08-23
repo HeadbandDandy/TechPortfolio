@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("./.DSC_3451.pxd.icloud"),
   imageSize: 375,
   message:
     "My name is Darryl Johnson, I go by DJ or Deej; I love sports, technology, food, and head-bands. I am a current educator and motivator residing in the state of Florida. When not working you can find me working out, reading a book, trying foods from different cultures, or watching TV. My goal is to transtion from education into a software developer role in which I can develop my skills and grow with a great company. ",
