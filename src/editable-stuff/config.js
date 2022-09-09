@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
+  gradientColors: "#041014, #ECC326, #059C12, #62059C, #ff7f7f, #ecf0f1",
   firstName: "Darryl",
   middleName: "'DJ'",
   lastName: "Johnson",
@@ -117,7 +117,7 @@ const getInTouch = {
   heading: "Reach Out",
   message:
     "I'm looking for a Full-Time role with a great company that will allow me to break into the technology sector. Whether thats a role as an intern, junior positions, or working with a team on the back-end of development. Or if you have any questions about any projects or setting up an interview, please feel free to email me at",
-  email: "darryl.johnson@palmbeachschools.org OR dandycodes@gmail.com",
+  email: "dandycodes@gmail.com"
 };
 
 const experiences = {
