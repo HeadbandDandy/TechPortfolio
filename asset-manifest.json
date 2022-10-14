@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tech/Portfolio/static/css/main.778eeed7.css",
-    "main.js": "/Tech/Portfolio/static/js/main.67b4305e.js",
-    "static/js/787.4b24f717.chunk.js": "/Tech/Portfolio/static/js/787.4b24f717.chunk.js",
-    "static/media/techPicture.jpeg": "/Tech/Portfolio/static/media/techPicture.7cf1be49ef8da8589697.jpeg",
-    "index.html": "/Tech/Portfolio/index.html",
-    "main.778eeed7.css.map": "/Tech/Portfolio/static/css/main.778eeed7.css.map",
-    "main.67b4305e.js.map": "/Tech/Portfolio/static/js/main.67b4305e.js.map",
-    "787.4b24f717.chunk.js.map": "/Tech/Portfolio/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/TechPortfolio/static/css/main.778eeed7.css",
+    "main.js": "/TechPortfolio/static/js/main.72161738.js",
+    "static/js/787.4b24f717.chunk.js": "/TechPortfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/techPicture.jpeg": "/TechPortfolio/static/media/techPicture.7cf1be49ef8da8589697.jpeg",
+    "index.html": "/TechPortfolio/index.html",
+    "main.778eeed7.css.map": "/TechPortfolio/static/css/main.778eeed7.css.map",
+    "main.72161738.js.map": "/TechPortfolio/static/js/main.72161738.js.map",
+    "787.4b24f717.chunk.js.map": "/TechPortfolio/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.67b4305e.js"
+    "static/js/main.72161738.js"
   ]
 }
