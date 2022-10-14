@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Darryl Johnson, I go by DJ or Deej; I love sports, technology, food, and head-bands. I am a current educator and motivator residing in the state of Florida. When not working you can find me working out, reading a book, trying foods from different cultures, or watching TV. My goal is to transtion from education into a software developer role in which I can develop my skills and grow with a great company. ",
-  resume: "https://docs.google.com/document/d/1xbdRvXth5bLzSHZnB4UKN6XBivBgYoIO7P0tjyhe0wQ/edit?usp=sharing",
+  resume: "https://docs.google.com/document/d/e/2PACX-1vS3H4djip2oc5zVUhn3RXhwIXQ_sD9mpCUsFeYTQCp0iVDSD-fNF2eqRJxsb5Vjm7AkC0uaH9EyYTvv/pub",
 };
 
 // PROJECTS SECTION
@@ -55,8 +55,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "HeadbandDandy", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ["brainy-badger-recipes", "expenseTracker-react", "regexTutorial", "ApeShitFitness"],
 };
 
 // Leadership SECTION
