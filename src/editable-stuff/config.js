@@ -56,7 +56,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "HeadbandDandy", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["brainy-badger-recipes", "expenseTracker-react", "regexTutorial", "ApeShitFitness", "apeClub"],
+  specificRepos: ["brainy-badger-recipes", "expenseTracker-react", "regexTutorial", "pythonBackEnd", "apeClub", "diceSimulator", "weatherApp" ],
 };
 
 // Leadership SECTION
